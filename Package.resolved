@@ -5,7 +5,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/leduong/openssl-apple",
       "state" : {
-        "revision" : "3cfbdf129d4239744b8e2878fe6f393f1c3457fd",
+        "revision" : "8f7c0c679f5bd2dd27959041ffd28a390c947234",
         "version" : "3.3.0"
       }
     },
